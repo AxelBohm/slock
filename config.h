@@ -4,8 +4,8 @@ static const char *group = "wheel";
 
 static const char *colorname[NUMCOLS] = {
 	[INIT] =   "black",     /* after initialization */
-	[INPUT] =  "#005577",   /* during input */
-	[FAILED] = "#CC3333",   /* wrong password */
+	[INPUT] =  "#83a598",   /* during input */
+	[FAILED] = "#d65d0e",   /* wrong password */
 };
 
 /* treat a cleared input like a wrong password (color) */
