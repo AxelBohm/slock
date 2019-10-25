@@ -12,10 +12,11 @@ static const char *colorname[NUMCOLS] = {
 static const int failonclear = 1;
 
 /* default message */
-static const char * message = "(_(\n/_/'_____/)\n\"  |      |\n   |\"\"\"\"\"\"|";
+static const char * message =
+        "     _                          _\n ,__(^<        >@)_,           (')<       >O___,\n \\___)          (_>)          <~_)         (_=/\n   ||            ||            ||           ||\n  _||____________||____________||___________||_\n  -||------------||------------||-----------||-\n  _||____________||____________||___________||_\n  -||------------||------------||-----------||-\n   ||            ||            ||           ||\n ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^";
 
 /* text color */
 static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static const char * text_size = "fixed";
+static const char * font_name = "fixed";
