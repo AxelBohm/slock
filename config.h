@@ -18,4 +18,4 @@ static const char * message = "(_(\n/_/'_____/)\n\"  |      |\n   |\"\"\"\"\"\"|
 static const char * text_color = "#ffffff";
 
 /* text size (must be a valid size) */
-static const char * text_size = "fixed";
+static const char * font_name = "fixed";
